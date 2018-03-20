@@ -1,2 +1,4 @@
-# password_validation
-page with simple password validation
+# password validation
+page with simple password validation for game.
+
+<a href="
