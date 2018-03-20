@@ -1,0 +1,48 @@
+body, html {
+    height: 100%;
+    padding: 0px;
+    margin:0px;
+}
+
+.bg { 
+    /* The image used */
+    background-image: url("photo.jpg");
+    /* Full height */
+    height: 100%; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 0;
+}
+
+.napis{
+	font-family: 'Pacifico', cursive;
+	text-align: right;
+	font-size: 100px;
+	color: white;
+	padding-bottom: 1%;
+	margin-bottom: 1%;
+}
+
+div{
+	padding: 0px;
+	margin: 0px;
+}
+
+p{
+	margin-top: 1%;
+	padding-top: 1%;
+	color: white;
+	background-color: #00000061;
+	z-index: 10;
+}
+
+#ramka{
+
+	width: 33%;
+	position: fixed; 
+	top: 20%;
+	right: 30%;
+
+}
